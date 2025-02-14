@@ -1,3 +1,4 @@
+```
 using System.Runtime.InteropServices;
 
 Console.WriteLine("Ваше имя");
@@ -48,3 +49,5 @@ if (((date >= 19 && date <= 29) && month == 2) || ((date <= 20 && date <= 31) &&
 { zodiack = "Рыбы"; }
 
 Console.WriteLine($"Ваше имя: {name}, Ваша фамилия {surname}, Ваш знак зодиака {zodiack}");
+
+```
